@@ -17,10 +17,17 @@ Ready-made event calendars shown on the timeline in your time zone. Free, no sig
 * [Big Four Stock Exchanges](https://perfectclock.cc/big-four-stock-exchanges) — NYSE, NASDAQ, Shanghai and Tokyo trading hours with holidays and early closes
 * [Forex Sessions & News](https://perfectclock.cc/forex) — Sydney, Tokyo, London and New York sessions and high-impact news, with Polymarket odds on Fed, ECB and BoE decisions
 * [Crypto Expiries & Macro](https://perfectclock.cc/crypto) — Deribit and CME BTC/ETH expiries, US macro news and Polymarket odds on BTC and ETH prices
+* [US Economic Calendar](https://perfectclock.cc/us-economic-calendar) — FOMC rate decisions and press conferences, CPI inflation and the jobs report
+* [Central Bank Decisions](https://perfectclock.cc/central-bank-decisions) — rate decisions of the Fed, ECB, Bank of England, Bank of Japan, Bank of Canada, RBA and SNB
+* [Earnings Calendar](https://perfectclock.cc/earnings-calendar) — quarterly reports of the 20 largest US companies, before the open or after the close, plus options expirations
 
 **[Sports schedules](https://perfectclock.cc/sports) with [Polymarket odds on a timeline](https://perfectclock.cc/polymarket)**
 
 * [F1 & Polymarket](https://perfectclock.cc/f1-polymarket) — every practice, sprint, qualifying and race
+* [NFL & Polymarket](https://perfectclock.cc/nfl-polymarket) — every NFL game of the season and the playoffs, with US TV and radio
+* [Premier League & Polymarket](https://perfectclock.cc/premier-league-polymarket) — every Premier League fixture at its kick-off, with the US TV channel
+* [European Football & Polymarket](https://perfectclock.cc/european-football-polymarket) — Champions League, LaLiga, Serie A, Bundesliga and Ligue 1 fixtures
+* [College Sports & Polymarket](https://perfectclock.cc/college-sports-polymarket) — Top 25 college football and basketball, the bowls, the College Football Playoff and March Madness
 * [World Sports & Polymarket](https://perfectclock.cc/sports-polymarket) — Champions League, UFC, tennis finals and big boxing fights
 * [MLB & Polymarket](https://perfectclock.cc/mlb-polymarket) — the World Series and every MLB game of the season, with US TV and radio
 * [NBA & Polymarket](https://perfectclock.cc/nba-polymarket) — every NBA game of the season
@@ -37,7 +44,15 @@ Ready-made event calendars shown on the timeline in your time zone. Free, no sig
 
 * [Rocket Launches](https://perfectclock.cc/rocket-launches) — upcoming SpaceX, Rocket Lab, ISRO and JAXA launches, with Polymarket odds
 * Launches by site and provider: [Cape Canaveral & Kennedy Space Center](https://perfectclock.cc/cape-canaveral-launches), [Vandenberg](https://perfectclock.cc/vandenberg-launches), [SpaceX](https://perfectclock.cc/spacex-launches), [Rocket Lab](https://perfectclock.cc/rocket-lab-launches)
+* [Moon Phases](https://perfectclock.cc/moon-phases) — new, first quarter, full and last quarter to the minute, with full moon names and supermoons
+* [Meteor Showers](https://perfectclock.cc/meteor-showers) — peaks of the Geminids, Perseids, Quadrantids and ten more annual showers, with moonlight
+* [Comets](https://perfectclock.cc/comets) — comets within reach of binoculars or a small telescope this year
+* [Near-Earth Asteroids](https://perfectclock.cc/near-earth-asteroids) — asteroids passing closer than the Moon and large flybys, from NASA/JPL data
 * [Remote Observatory Dark Hours](https://perfectclock.cc/remote-observatory-dark-hours) — astronomical night and moon-free hours at Siding Spring, Río Hurtado, Hakos, Nerpio, New Mexico and Utah ([astronomy schedules](https://perfectclock.cc/astronomy))
+
+**[Time](https://perfectclock.cc/time)**
+
+* [Daylight Saving Time](https://perfectclock.cc/daylight-saving-time) — every clock change in the world, at the moment it happens
 
 **[Shortwave radio schedules in your time zone](https://perfectclock.cc/shortwave)** — schedules published in UTC, shown in your time zone (data: [EiBi](http://www.eibispace.de/), NOAA, DWD, Bureau of Meteorology)
 
