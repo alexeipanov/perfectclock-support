@@ -8,6 +8,8 @@ Chrome extension: [Perfect Clock on Chrome Web Store](https://chromewebstore.goo
 
 Firefox extension: [Perfect Clock on Mozilla](https://addons.mozilla.org/firefox/addon/perfect-clock/?utm_source=perfectclock-support.cc&utm_medium=support&utm_campaign=readme)
 
+Edge extension: [Perfect Clock on Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/perfect-clock/jhcfenjjldppmbopjldopaeopoomeepk?utm_source=perfectclock-support.cc&utm_medium=support&utm_campaign=readme)
+
 ## Public calendars
 
 Ready-made event calendars shown on the timeline in your time zone. Free, no sign-up. Browse them all by category: [public calendars by topic](https://perfectclock.cc/categories).
